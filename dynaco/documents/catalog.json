@@ -1,0 +1,613 @@
+{
+  "source": "scott-cothrell/Dynaco",
+  "items": [
+    {
+      "title": "Dyna MK3 manual",
+      "kind": "Manual",
+      "filename": "Dyna MK3 manual.pdf",
+      "source": "Manuals/Dyna MK3 manual.pdf",
+      "url": "manuals/Dyna MK3 manual.pdf",
+      "bytes": 1765636
+    },
+    {
+      "title": "Dyna ST70 S2 manual",
+      "kind": "Manual",
+      "filename": "Dyna ST70-S2 manual.pdf",
+      "source": "Manuals/Dyna ST70-S2 manual.pdf",
+      "url": "manuals/Dyna ST70-S2 manual.pdf",
+      "bytes": 1038780
+    },
+    {
+      "title": "Dynaco FM 3 manual",
+      "kind": "Manual",
+      "filename": "Dynaco FM-3 manual.pdf",
+      "source": "Manuals/Dynaco FM-3 manual.pdf",
+      "url": "manuals/Dynaco FM-3 manual.pdf",
+      "bytes": 7054696
+    },
+    {
+      "title": "Dynaco MK2 manual",
+      "kind": "Manual",
+      "filename": "Dynaco MK2 manual.pdf",
+      "source": "Manuals/Dynaco MK2 manual.pdf",
+      "url": "manuals/Dynaco MK2 manual.pdf",
+      "bytes": 3862959
+    },
+    {
+      "title": "Dynaco PAM 1 manual",
+      "kind": "Manual",
+      "filename": "Dynaco PAM-1 manual.pdf",
+      "source": "Manuals/Dynaco PAM-1 manual.pdf",
+      "url": "manuals/Dynaco PAM-1 manual.pdf",
+      "bytes": 6085243
+    },
+    {
+      "title": "Dynaco PAS 4 manual",
+      "kind": "Manual",
+      "filename": "Dynaco PAS-4 manual.pdf",
+      "source": "Manuals/Dynaco PAS-4 manual.pdf",
+      "url": "manuals/Dynaco PAS-4 manual.pdf",
+      "bytes": 580658
+    },
+    {
+      "title": "Dynaco SCA 35 manual",
+      "kind": "Manual",
+      "filename": "Dynaco SCA-35 manual.pdf",
+      "source": "Manuals/Dynaco SCA-35 manual.pdf",
+      "url": "manuals/Dynaco SCA-35 manual.pdf",
+      "bytes": 6799641
+    },
+    {
+      "title": "Dynaco 120A pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-120A-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-120A-pwr-sch.pdf",
+      "url": "manuals/Dynaco-120A-pwr-sch.pdf",
+      "bytes": 664487
+    },
+    {
+      "title": "Dynaco 150 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-150-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-150-pwr-sch.pdf",
+      "url": "manuals/Dynaco-150-pwr-sch.pdf",
+      "bytes": 63329
+    },
+    {
+      "title": "Dynaco 6V6 6BQ5 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-6V6_6BQ5-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-6V6_6BQ5-pwr-sch.pdf",
+      "url": "manuals/Dynaco-6V6_6BQ5-pwr-sch.pdf",
+      "bytes": 27285
+    },
+    {
+      "title": "Dynaco AF6 tun sch1",
+      "kind": "Schematic",
+      "filename": "Dynaco-AF6-tun-sch1.pdf",
+      "source": "Manuals/Dynaco-AF6-tun-sch1.pdf",
+      "url": "manuals/Dynaco-AF6-tun-sch1.pdf",
+      "bytes": 3688083
+    },
+    {
+      "title": "Dynaco AF6 tun sch2",
+      "kind": "Schematic",
+      "filename": "Dynaco-AF6-tun-sch2.pdf",
+      "source": "Manuals/Dynaco-AF6-tun-sch2.pdf",
+      "url": "manuals/Dynaco-AF6-tun-sch2.pdf",
+      "bytes": 3055412
+    },
+    {
+      "title": "Dynaco AF6 tun sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-AF6-tun-sm.pdf",
+      "source": "Manuals/Dynaco-AF6-tun-sm.pdf",
+      "url": "manuals/Dynaco-AF6-tun-sm.pdf",
+      "bytes": 7450728
+    },
+    {
+      "title": "Dynaco DSC1 pre sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-DSC1-pre-sm.pdf",
+      "source": "Manuals/Dynaco-DSC1-pre-sm.pdf",
+      "url": "manuals/Dynaco-DSC1-pre-sm.pdf",
+      "bytes": 3202589
+    },
+    {
+      "title": "Dynaco DynakitDSC1 sc sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-DynakitDSC1-sc-sm.pdf",
+      "source": "Manuals/Dynaco-DynakitDSC1-sc-sm.pdf",
+      "url": "manuals/Dynaco-DynakitDSC1-sc-sm.pdf",
+      "bytes": 3563851
+    },
+    {
+      "title": "Dynaco DynakitMK2 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-DynakitMK2-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-DynakitMK2-pwr-sch.pdf",
+      "url": "manuals/Dynaco-DynakitMK2-pwr-sch.pdf",
+      "bytes": 48052
+    },
+    {
+      "title": "Dynaco DynakitMK3 pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-DynakitMK3-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-DynakitMK3-pwr-sm.pdf",
+      "url": "manuals/Dynaco-DynakitMK3-pwr-sm.pdf",
+      "bytes": 1765636
+    },
+    {
+      "title": "Dynaco DynakitMK4 pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-DynakitMK4-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-DynakitMK4-pwr-sm.pdf",
+      "url": "manuals/Dynaco-DynakitMK4-pwr-sm.pdf",
+      "bytes": 8089604
+    },
+    {
+      "title": "Dynaco DynakitMKIV pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-DynakitMKIV-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-DynakitMKIV-pwr-sm.pdf",
+      "url": "manuals/Dynaco-DynakitMKIV-pwr-sm.pdf",
+      "bytes": 8046314
+    },
+    {
+      "title": "Dynaco DynakitMKVI pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-DynakitMKVI-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-DynakitMKVI-pwr-sm.pdf",
+      "url": "manuals/Dynaco-DynakitMKVI-pwr-sm.pdf",
+      "bytes": 7394010
+    },
+    {
+      "title": "Dynaco DynakitPAS2 pre sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-DynakitPAS2-pre-sch.pdf",
+      "source": "Manuals/Dynaco-DynakitPAS2-pre-sch.pdf",
+      "url": "manuals/Dynaco-DynakitPAS2-pre-sch.pdf",
+      "bytes": 1450128
+    },
+    {
+      "title": "Dynaco DynakitPAS2 pre sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-DynakitPAS2-pre-sm.pdf",
+      "source": "Manuals/Dynaco-DynakitPAS2-pre-sm.pdf",
+      "url": "manuals/Dynaco-DynakitPAS2-pre-sm.pdf",
+      "bytes": 1450128
+    },
+    {
+      "title": "Dynaco FM1 tun sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-FM1-tun-sm.pdf",
+      "source": "Manuals/Dynaco-FM1-tun-sm.pdf",
+      "url": "manuals/Dynaco-FM1-tun-sm.pdf",
+      "bytes": 5297619
+    },
+    {
+      "title": "Dynaco FM3 rec sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-FM3-rec-sch.pdf",
+      "source": "Manuals/Dynaco-FM3-rec-sch.pdf",
+      "url": "manuals/Dynaco-FM3-rec-sch.pdf",
+      "bytes": 490413
+    },
+    {
+      "title": "Dynaco FM3 tun sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-FM3-tun-sm.pdf",
+      "source": "Manuals/Dynaco-FM3-tun-sm.pdf",
+      "url": "manuals/Dynaco-FM3-tun-sm.pdf",
+      "bytes": 4061516
+    },
+    {
+      "title": "Dynaco FM5 tun sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-FM5-tun-sm.pdf",
+      "source": "Manuals/Dynaco-FM5-tun-sm.pdf",
+      "url": "manuals/Dynaco-FM5-tun-sm.pdf",
+      "bytes": 10509104
+    },
+    {
+      "title": "Dynaco FMA2 pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-FMA2-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-FMA2-pwr-sm.pdf",
+      "url": "manuals/Dynaco-FMA2-pwr-sm.pdf",
+      "bytes": 3068163
+    },
+    {
+      "title": "Dynaco FMX3 tun sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-FMX3-tun-sch.pdf",
+      "source": "Manuals/Dynaco-FMX3-tun-sch.pdf",
+      "url": "manuals/Dynaco-FMX3-tun-sch.pdf",
+      "bytes": 318944
+    },
+    {
+      "title": "Dynaco FMX3MPX tun sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-FMX3MPX-tun-sch.pdf",
+      "source": "Manuals/Dynaco-FMX3MPX-tun-sch.pdf",
+      "url": "manuals/Dynaco-FMX3MPX-tun-sch.pdf",
+      "bytes": 727447
+    },
+    {
+      "title": "Dynaco ImprovedMullardCircuit sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-ImprovedMullardCircuit-sch.pdf",
+      "source": "Manuals/Dynaco-ImprovedMullardCircuit-sch.pdf",
+      "url": "manuals/Dynaco-ImprovedMullardCircuit-sch.pdf",
+      "bytes": 33721
+    },
+    {
+      "title": "Dynaco MarkII pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-MarkII-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-MarkII-pwr-sch.pdf",
+      "url": "manuals/Dynaco-MarkII-pwr-sch.pdf",
+      "bytes": 50286
+    },
+    {
+      "title": "Dynaco MarkIII pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-MarkIII-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-MarkIII-pwr-sch.pdf",
+      "url": "manuals/Dynaco-MarkIII-pwr-sch.pdf",
+      "bytes": 32825
+    },
+    {
+      "title": "Dynaco MarkIII pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-MarkIII-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-MarkIII-pwr-sm.pdf",
+      "url": "manuals/Dynaco-MarkIII-pwr-sm.pdf",
+      "bytes": 693652
+    },
+    {
+      "title": "Dynaco MarkIV pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-MarkIV-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-MarkIV-pwr-sm.pdf",
+      "url": "manuals/Dynaco-MarkIV-pwr-sm.pdf",
+      "bytes": 1762222
+    },
+    {
+      "title": "Dynaco MarkVI pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-MarkVI-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-MarkVI-pwr-sm.pdf",
+      "url": "manuals/Dynaco-MarkVI-pwr-sm.pdf",
+      "bytes": 6224311
+    },
+    {
+      "title": "Dynaco MKlV pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-MKlV-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-MKlV-pwr-sch.pdf",
+      "url": "manuals/Dynaco-MKlV-pwr-sch.pdf",
+      "bytes": 154904
+    },
+    {
+      "title": "Dynaco ModifiedMullard pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-ModifiedMullard-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-ModifiedMullard-pwr-sch.pdf",
+      "url": "manuals/Dynaco-ModifiedMullard-pwr-sch.pdf",
+      "bytes": 76386
+    },
+    {
+      "title": "Dynaco ModifiedWilliamson pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-ModifiedWilliamson-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-ModifiedWilliamson-pwr-sch.pdf",
+      "url": "manuals/Dynaco-ModifiedWilliamson-pwr-sch.pdf",
+      "bytes": 43605
+    },
+    {
+      "title": "Dynaco PA5 3X pre sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-PA5_3X-pre-sch.pdf",
+      "source": "Manuals/Dynaco-PA5_3X-pre-sch.pdf",
+      "url": "manuals/Dynaco-PA5_3X-pre-sch.pdf",
+      "bytes": 306339
+    },
+    {
+      "title": "Dynaco PAM1 pre sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-PAM1-pre-sch.pdf",
+      "source": "Manuals/Dynaco-PAM1-pre-sch.pdf",
+      "url": "manuals/Dynaco-PAM1-pre-sch.pdf",
+      "bytes": 23574
+    },
+    {
+      "title": "Dynaco PAM1 pre sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-PAM1-pre-sm.pdf",
+      "source": "Manuals/Dynaco-PAM1-pre-sm.pdf",
+      "url": "manuals/Dynaco-PAM1-pre-sm.pdf",
+      "bytes": 6064463
+    },
+    {
+      "title": "Dynaco PAS riaa mod",
+      "kind": "Reference",
+      "filename": "Dynaco-PAS-riaa-mod.pdf",
+      "source": "Manuals/Dynaco-PAS-riaa-mod.pdf",
+      "url": "manuals/Dynaco-PAS-riaa-mod.pdf",
+      "bytes": 553015
+    },
+    {
+      "title": "Dynaco PAS2 pre sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-PAS2-pre-sch.pdf",
+      "source": "Manuals/Dynaco-PAS2-pre-sch.pdf",
+      "url": "manuals/Dynaco-PAS2-pre-sch.pdf",
+      "bytes": 318195
+    },
+    {
+      "title": "Dynaco PAS2 pre sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-PAS2-pre-sm.pdf",
+      "source": "Manuals/Dynaco-PAS2-pre-sm.pdf",
+      "url": "manuals/Dynaco-PAS2-pre-sm.pdf",
+      "bytes": 1450128
+    },
+    {
+      "title": "Dynaco PAS3 pre sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-PAS3-pre-sch.pdf",
+      "source": "Manuals/Dynaco-PAS3-pre-sch.pdf",
+      "url": "manuals/Dynaco-PAS3-pre-sch.pdf",
+      "bytes": 106199
+    },
+    {
+      "title": "Dynaco PAS3II pre sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-PAS3II-pre-sch.pdf",
+      "source": "Manuals/Dynaco-PAS3II-pre-sch.pdf",
+      "url": "manuals/Dynaco-PAS3II-pre-sch.pdf",
+      "bytes": 885258
+    },
+    {
+      "title": "Dynaco PAS3X pre sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-PAS3X-pre-sm.pdf",
+      "source": "Manuals/Dynaco-PAS3X-pre-sm.pdf",
+      "url": "manuals/Dynaco-PAS3X-pre-sm.pdf",
+      "bytes": 14287693
+    },
+    {
+      "title": "Dynaco PAT4 pre sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-PAT4-pre-sm.pdf",
+      "source": "Manuals/Dynaco-PAT4-pre-sm.pdf",
+      "url": "manuals/Dynaco-PAT4-pre-sm.pdf",
+      "bytes": 11861828
+    },
+    {
+      "title": "Dynaco PAT4 pre wd",
+      "kind": "Reference",
+      "filename": "Dynaco-PAT4-pre-wd.pdf",
+      "source": "Manuals/Dynaco-PAT4-pre-wd.pdf",
+      "url": "manuals/Dynaco-PAT4-pre-wd.pdf",
+      "bytes": 1548776
+    },
+    {
+      "title": "Dynaco PAT5 pre sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-PAT5-pre-sm.pdf",
+      "source": "Manuals/Dynaco-PAT5-pre-sm.pdf",
+      "url": "manuals/Dynaco-PAT5-pre-sm.pdf",
+      "bytes": 15844032
+    },
+    {
+      "title": "Dynaco PS1 psu sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-PS1-psu-sm.pdf",
+      "source": "Manuals/Dynaco-PS1-psu-sm.pdf",
+      "url": "manuals/Dynaco-PS1-psu-sm.pdf",
+      "bytes": 1981274
+    },
+    {
+      "title": "Dynaco QD1 qd sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-QD1-qd-sm.pdf",
+      "source": "Manuals/Dynaco-QD1-qd-sm.pdf",
+      "url": "manuals/Dynaco-QD1-qd-sm.pdf",
+      "bytes": 4642828
+    },
+    {
+      "title": "Dynaco QSA300 pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-QSA300-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-QSA300-pwr-sm.pdf",
+      "url": "manuals/Dynaco-QSA300-pwr-sm.pdf",
+      "bytes": 10223084
+    },
+    {
+      "title": "Dynaco S120 pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-S120-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-S120-pwr-sm.pdf",
+      "url": "manuals/Dynaco-S120-pwr-sm.pdf",
+      "bytes": 9021573
+    },
+    {
+      "title": "Dynaco S120 sch late",
+      "kind": "Schematic",
+      "filename": "Dynaco-S120-sch-late.pdf",
+      "source": "Manuals/Dynaco-S120-sch-late.pdf",
+      "url": "manuals/Dynaco-S120-sch-late.pdf",
+      "bytes": 566791
+    },
+    {
+      "title": "Dynaco S1200 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-S1200-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-S1200-pwr-sch.pdf",
+      "url": "manuals/Dynaco-S1200-pwr-sch.pdf",
+      "bytes": 448505
+    },
+    {
+      "title": "Dynaco S900 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-S900-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-S900-pwr-sch.pdf",
+      "url": "manuals/Dynaco-S900-pwr-sch.pdf",
+      "bytes": 448480
+    },
+    {
+      "title": "Dynaco SCA35 int sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-SCA35-int-sch.pdf",
+      "source": "Manuals/Dynaco-SCA35-int-sch.pdf",
+      "url": "manuals/Dynaco-SCA35-int-sch.pdf",
+      "bytes": 193305
+    },
+    {
+      "title": "Dynaco SCA35 int sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-SCA35-int-sm.pdf",
+      "source": "Manuals/Dynaco-SCA35-int-sm.pdf",
+      "url": "manuals/Dynaco-SCA35-int-sm.pdf",
+      "bytes": 6799641
+    },
+    {
+      "title": "Dynaco SCA50 int sm1",
+      "kind": "Service literature",
+      "filename": "Dynaco-SCA50-int-sm1.pdf",
+      "source": "Manuals/Dynaco-SCA50-int-sm1.pdf",
+      "url": "manuals/Dynaco-SCA50-int-sm1.pdf",
+      "bytes": 9239728
+    },
+    {
+      "title": "Dynaco SCA50 int sm2",
+      "kind": "Service literature",
+      "filename": "Dynaco-SCA50-int-sm2.pdf",
+      "source": "Manuals/Dynaco-SCA50-int-sm2.pdf",
+      "url": "manuals/Dynaco-SCA50-int-sm2.pdf",
+      "bytes": 19319668
+    },
+    {
+      "title": "Dynaco SCA80Q int sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-SCA80Q-int-sch.pdf",
+      "source": "Manuals/Dynaco-SCA80Q-int-sch.pdf",
+      "url": "manuals/Dynaco-SCA80Q-int-sch.pdf",
+      "bytes": 2074961
+    },
+    {
+      "title": "Dynaco SCA80Q int sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-SCA80Q-int-sm.pdf",
+      "source": "Manuals/Dynaco-SCA80Q-int-sm.pdf",
+      "url": "manuals/Dynaco-SCA80Q-int-sm.pdf",
+      "bytes": 8288864
+    },
+    {
+      "title": "Dynaco SE10 eq sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-SE10-eq-sm.pdf",
+      "source": "Manuals/Dynaco-SE10-eq-sm.pdf",
+      "url": "manuals/Dynaco-SE10-eq-sm.pdf",
+      "bytes": 7749208
+    },
+    {
+      "title": "Dynaco Stereo120 pwr mod",
+      "kind": "Reference",
+      "filename": "Dynaco-Stereo120-pwr-mod.pdf",
+      "source": "Manuals/Dynaco-Stereo120-pwr-mod.pdf",
+      "url": "manuals/Dynaco-Stereo120-pwr-mod.pdf",
+      "bytes": 279366
+    },
+    {
+      "title": "Dynaco Stereo120A pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo120A-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo120A-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo120A-pwr-sch.pdf",
+      "bytes": 664238
+    },
+    {
+      "title": "Dynaco Stereo150 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo150-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo150-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo150-pwr-sch.pdf",
+      "bytes": 63081
+    },
+    {
+      "title": "Dynaco Stereo35 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo35-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo35-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo35-pwr-sch.pdf",
+      "bytes": 85812
+    },
+    {
+      "title": "Dynaco Stereo400 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo400-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo400-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo400-pwr-sch.pdf",
+      "bytes": 300408
+    },
+    {
+      "title": "Dynaco Stereo410 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo410-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo410-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo410-pwr-sch.pdf",
+      "bytes": 190205
+    },
+    {
+      "title": "Dynaco Stereo416 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo416-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo416-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo416-pwr-sch.pdf",
+      "bytes": 6807701
+    },
+    {
+      "title": "Dynaco Stereo416 pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-Stereo416-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-Stereo416-pwr-sm.pdf",
+      "url": "manuals/Dynaco-Stereo416-pwr-sm.pdf",
+      "bytes": 17721820
+    },
+    {
+      "title": "Dynaco Stereo70 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo70-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo70-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo70-pwr-sch.pdf",
+      "bytes": 106128
+    },
+    {
+      "title": "Dynaco Stereo70 pwr sm",
+      "kind": "Service literature",
+      "filename": "Dynaco-Stereo70-pwr-sm.pdf",
+      "source": "Manuals/Dynaco-Stereo70-pwr-sm.pdf",
+      "url": "manuals/Dynaco-Stereo70-pwr-sm.pdf",
+      "bytes": 906357
+    },
+    {
+      "title": "Dynaco Stereo70MKII pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo70MKII-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo70MKII-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo70MKII-pwr-sch.pdf",
+      "bytes": 1041642
+    },
+    {
+      "title": "Dynaco Stereo80 pwr sch",
+      "kind": "Schematic",
+      "filename": "Dynaco-Stereo80-pwr-sch.pdf",
+      "source": "Manuals/Dynaco-Stereo80-pwr-sch.pdf",
+      "url": "manuals/Dynaco-Stereo80-pwr-sch.pdf",
+      "bytes": 91488
+    }
+  ]
+}

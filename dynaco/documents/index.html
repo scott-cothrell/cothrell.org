@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Searchable library of Dynaco manuals and service documents.">
@@ -35,6 +36,11 @@
 
       .crumb a {
         color: inherit;
+      }
+
+      .crumb a:focus-visible {
+        outline: 2px solid #607d70;
+        outline-offset: 4px;
       }
 
       .label {
@@ -75,6 +81,18 @@
         outline-offset: 1px;
       }
 
+      .visually-hidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+
       .meta {
         font-size: 0.9rem;
         color: #5c7068;
@@ -102,6 +120,11 @@
       .item:focus {
         border-color: #789184;
         background: #fff;
+      }
+
+      .item:focus-visible {
+        outline: 2px solid #607d70;
+        outline-offset: 2px;
       }
 
       .title {
